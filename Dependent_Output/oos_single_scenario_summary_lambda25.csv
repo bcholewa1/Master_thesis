@@ -1,0 +1,6 @@
+method,value,time s
+KNN,14.54,7.91
+Decision Tree,14.07,3.85
+XGBoost,14.51,5.54
+LightGBM,14.54,5.23
+Random Forest,14.36,18.21

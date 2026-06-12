@@ -1,0 +1,8 @@
+method,value,diff vs poly,time s
+LSMC Poly (1+S+S²),14.84,+0.00,1.18
+KNN,14.83,-0.00,7.10
+Decision Tree,14.78,-0.06,2.47
+XGBoost,15.37,+0.54,3.68
+LightGBM,15.28,+0.44,3.81
+Ridge (Linear),14.84,+0.00,1.23
+Random Forest,15.25,+0.42,5.93
